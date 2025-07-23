@@ -10,6 +10,6 @@ export const metadata: Metadata ={
 
 export default function page() {
   return (
-    <Hero imgUrl={reliabilitySrc} altTxt="reliability" content="Reliability~~~"/>
+    <Hero imgUrl={reliabilitySrc} altTxt="reliability" content="Super high Reliability hosting~~~"/>
   )
 }

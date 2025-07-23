@@ -9,6 +9,6 @@ export const metadata: Metadata ={
 
 export default function page() {
   return (
-    <Hero imgUrl={scaleSrc} altTxt="scale" content="Scale~~~"/>
+    <Hero imgUrl={scaleSrc} altTxt="scale" content="Scale your app to infinity~~~"/>
   )
 }
